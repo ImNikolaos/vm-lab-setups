@@ -1,0 +1,11 @@
+Virtual Machine Lab: Windows 10 Setup
+
+Steps:
+1. Download Windows 10 ISO
+2. Create new VM in VirtualBox (4GB RAM, 2 CPUs, 50GB disk)
+3. Install Windows, set up local user account
+4. Enable remote desktop and install antivirus
+5. Create second user account with limited permissions
+
+Lab Notes:
+Used this VM to practice user management and Windows settings navigation.
